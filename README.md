@@ -1,1 +1,11 @@
-# repo-template
+
+  # Microsoft Fabric Resource Dashboard
+
+  This is a code bundle for Microsoft Fabric Resource Dashboard. The original project is available at https://www.figma.com/design/SqHXPJdiv74oVLdAZ1BnXN/Microsoft-Fabric-Resource-Dashboard.
+
+  ## Running the code
+
+  Run `npm i` to install the dependencies.
+
+  Run `npm run dev` to start the development server.
+  
